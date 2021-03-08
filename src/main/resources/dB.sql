@@ -1,0 +1,1 @@
+insert into zip (zipCode, id) values (?, ?);
